@@ -46,7 +46,7 @@ Every week the table of contents will be updated with links to the new content. 
 1. [Wiki](https://github.com/divyanshkul/IECSE-AppDev-Spring-2022/wiki)
 2. Week Wise Content
    1. [Week 0](https://github.com/divyanshkul/IECSE-AppDev-Spring-2022/wiki/Week-0)
-   2. [Week 1](https://)
+   2. [Week 1](https://github.com/divyanshkul/IECSE-AppDev-Spring-2022/wiki/Week-1)
    3. [Week 2](https://)
    4. [Week 3](https://)
 3. [Additional Reading](https://page-banana-hai.vercel.app/)
